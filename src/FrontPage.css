@@ -4,10 +4,14 @@
   align-items: center;
   text-align: center;
   min-height: 100vh;
+  gap: 36px;
 }
 
 .frontPageText {
-  padding-right: 164px;
+  padding: 24px;
+  border-radius: 36px;
+  background-color: rgba(116, 102, 102, 0.938);
+  /* box-shadow: 0px 0px 12px 0px; */
 }
 
 .frontPageText h3 {
