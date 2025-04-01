@@ -4,7 +4,11 @@ export default function Header() {
     <>
       <div className="headerSection">
         <div>
-          <button className="headerLogo" style={{ padding: "8px" }}>
+          <button
+            onClick={() => window.scroll(0, 0)}
+            className="headerLogo"
+            style={{ padding: "8px" }}
+          >
             Gym Tracker
           </button>
         </div>

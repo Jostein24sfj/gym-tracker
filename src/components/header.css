@@ -5,8 +5,9 @@
   padding: 24px;
   height: 86px;
   width: 100%;
-  background-color: #e2224288;
+  background-color: #bc1f39c2;
   border-bottom: 1px solid white;
+  position: fixed;
 }
 
 .headerLogo {
@@ -15,6 +16,7 @@
   font-weight: 800;
   border: none;
   background-color: #e2224200;
+  cursor: pointer;
 }
 
 .headerButton {

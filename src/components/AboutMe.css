@@ -1,0 +1,33 @@
+.aboutMeContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 36px;
+  padding: 44px;
+  background-color: rgba(116, 102, 102, 0.938);
+}
+
+.aboutMeText {
+  /* padding: 24px; */
+  border-radius: 36px;
+}
+
+.aboutMeText h3 {
+  /* padding-top: 12px; */
+  font-size: 46px;
+}
+
+.aboutMeText b {
+  color: red;
+}
+
+.aboutMeText p {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 60px;
+}
+.aboutMeImg {
+  border-radius: 24px;
+  height: 450px;
+}

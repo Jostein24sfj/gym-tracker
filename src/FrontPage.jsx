@@ -11,11 +11,11 @@ export default function FrontPage() {
         <div className="frontPageContent">
           <div className="frontPageText">
             <h3>
-              Her finner du <b>alt</b> du trenger for trene.
+              Her finner du <b>alt</b> du trenger for å trene<b>.</b>
             </h3>
             <p>
-              Enten om du er ny til trening, eller har erfaring og ønsker en
-              solid måte og følge opp treningen videre!😎
+              Enten om du er <b>ny</b> til trening, eller har erfaring og ønsker
+              en <b>solid</b> måte og følge opp treningen videre!
             </p>
           </div>
           <img
