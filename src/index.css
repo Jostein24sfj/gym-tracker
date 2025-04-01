@@ -36,9 +36,9 @@
 }
 
 .firstBackgroundImg {
-  background-image: url("FrontPageGym.png");
+  background-image: url("/FrontPageGym.png");
 }
 
 .secondbBackgroundImg {
-  background-image: url("FrontPageGym.png");
+  background-image: url("/FrontPageGym.png");
 }

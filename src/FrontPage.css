@@ -43,7 +43,3 @@
 .weightPlate {
   animation: spin 16s linear infinite;
 }
-
-.weightPlate:hover {
-  transform: scale(1.2);
-}

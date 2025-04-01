@@ -5,10 +5,7 @@ export default function FrontPage() {
     <>
       <section>
         <div className="backgrounds">
-          <div
-            alt="firstbackground"
-            className="backgroundImg firstBackgroundImg"
-          />
+          <div className="backgroundImg firstBackgroundImg" />
           <div className="backgroundImg secondBackgroundImg" />
         </div>
         <div className="frontPageContent">
