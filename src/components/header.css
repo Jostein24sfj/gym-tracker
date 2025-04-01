@@ -1,0 +1,11 @@
+.headerSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+  /* height: 64px; */
+  background-color: rgb(105, 105, 105);
+}
+.headerButtons {
+  gap: 12px;
+}
