@@ -18,6 +18,9 @@ export default function Header() {
           <button className="headerButton" style={{ padding: "8px" }}>
             Contact
           </button>
+          <button className="headerButton" style={{ padding: "8px" }}>
+            About Me
+          </button>
         </div>
       </div>
     </>

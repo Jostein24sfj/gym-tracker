@@ -27,7 +27,11 @@
 }
 
 .backgroundImg {
-  /* background-image: url("FrontPageGym.png"); */
+  /* position: absolute; */
+  background-image: url("FrontPageGym.png");
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
