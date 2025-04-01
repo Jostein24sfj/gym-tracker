@@ -28,7 +28,7 @@
 
 .backgroundImg {
   /* position: absolute; */
-  background-image: url("FrontPageGym.png");
+  background-image: url("/FrontPageGym.png");
   background-attachment: fixed;
   background-position: center;
   margin: 0;
