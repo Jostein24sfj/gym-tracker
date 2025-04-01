@@ -8,14 +8,14 @@ export default function Header() {
             Gym Tracker
           </button>
         </div>
-        <div>
-          <button className="headerButtons" style={{ padding: "8px" }}>
+        <div className="headerButtons">
+          <button className="headerButton" style={{ padding: "8px" }}>
             Programs
           </button>
-          <button className="headerButtons" style={{ padding: "8px" }}>
+          <button className="headerButton" style={{ padding: "8px" }}>
             Favorites
           </button>
-          <button className="headerButtons" style={{ padding: "8px" }}>
+          <button className="headerButton" style={{ padding: "8px" }}>
             Contact
           </button>
         </div>
