@@ -21,7 +21,7 @@ export default function FrontPage() {
           <img
             id="weightPlate"
             className="weightPlate"
-            src="./titanLifeVekt.jpg"
+            src="./titanLifeVekt.png"
             alt="Bilde av en vektskive"
           />
         </div>

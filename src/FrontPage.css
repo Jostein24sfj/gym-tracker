@@ -41,7 +41,7 @@
 }
 
 .weightPlate {
-  animation: spin 12s linear infinite;
+  animation: spin 16s linear infinite;
 }
 
 .weightPlate:hover {
