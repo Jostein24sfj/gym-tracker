@@ -4,7 +4,9 @@ export default function Header() {
     <>
       <div className="headerSection">
         <div>
-          <button style={{ padding: "8px" }}>Gym Tracker</button>
+          <button className="headerLogo" style={{ padding: "8px" }}>
+            Gym Tracker
+          </button>
         </div>
         <div>
           <button className="headerButtons" style={{ padding: "8px" }}>

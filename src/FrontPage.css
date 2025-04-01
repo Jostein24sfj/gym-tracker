@@ -1,0 +1,49 @@
+.frontPageContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.frontPageText {
+  padding-right: 164px;
+}
+
+.frontPageText h3 {
+  font-size: 46px;
+}
+
+.frontPageText p {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.frontPageText b {
+  text-transform: uppercase;
+  /* text-decoration: underline; */
+  color: rgb(255, 53, 53);
+}
+
+.weightPlate {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.weightPlate {
+  animation: spin 12s linear infinite;
+}
+
+.weightPlate:hover {
+  transform: scale(1.2);
+}
