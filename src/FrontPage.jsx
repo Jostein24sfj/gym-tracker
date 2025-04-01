@@ -5,8 +5,14 @@ export default function FrontPage() {
     <>
       <section>
         <div className="backgrounds">
-          <div className="backgroundImg firstBackgroundImg" />
-          <div className="backgroundImg secondBackgroundImg" />
+          <div
+            className="backgroundImg firstBackgroundImg"
+            alt="Bilde av en vektskive"
+          />
+          <div
+            className="backgroundImg secondBackgroundImg"
+            alt="Bilde av en vektskive"
+          />
         </div>
         <div className="frontPageContent">
           <div className="frontPageText">
