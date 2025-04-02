@@ -1,10 +1,40 @@
 .footerSection {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 48px;
-  height: 300px;
+  height: 200px;
   background-color: #bc1f39d8;
   gap: 12px;
+}
+
+.footerIcons {
+  display: flex;
+  gap: 36px;
+}
+
+.copyRightText {
+  /* padding-top: 24px; */
+  font-size: 14px;
+}
+
+.footericon {
+  transition: 0.3s ease all;
+}
+
+.footericon:hover {
+  transform: scale(1.05);
+}
+
+.footerIconInstagram:hover {
+  color: #fb007c;
+}
+
+.footerIconSnapchat:hover {
+  color: yellow;
+}
+
+.footerIconTiktok:hover {
+  color: rgba(0, 0, 0, 0.5);
 }

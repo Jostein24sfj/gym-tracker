@@ -5,6 +5,7 @@ export default function AboutMe() {
     <>
       <div className="aboutMeContent">
         <img className="aboutMeImg" src="./aboutMe.png" alt="bilde av meg" />
+        {/* <img className="aboutMeImg" src="/public/IMG_22555.png" alt="bilde" /> */}
         <div className="aboutMeText">
           <h3>
             Litt Om Meg<b>.</b>

@@ -4,19 +4,19 @@ import "./muscleGroups.css";
 export default function MuscleGroups() {
   return (
     <>
-      <div className="muscleGroupTitle">
+      <div className="muscleGroupTitle textShadow">
         <h2>
           Muskelgrupper <b>&</b> Programmer
         </h2>
       </div>
-      <div className="muscleGroupCards">
+      <div className="muscleGroupCards textShadow">
         <Link to="/muscle/chest" className="card">
           <h3>Chest</h3>
           <img className="cardImg" src="/chestMuscles.jpg" alt="chest" />
         </Link>
         <Link to="/muscle/back" className="card">
           <h3>Back</h3>
-          <img className="cardImg" src="/backMuscle.jpg" alt="back" />
+          <img className="cardImg" src="/backMuscles.jpg" alt="back" />
         </Link>
         <Link to="/muscle/legs" className="card">
           <h3>Legs</h3>

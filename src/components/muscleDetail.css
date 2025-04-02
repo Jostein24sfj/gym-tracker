@@ -5,7 +5,7 @@
   align-items: center;
   text-align: center;
   font-size: 20px;
-  /* background-color: aliceblue; */
+  gap: 12px;
   padding-top: 120px; /* Add enough padding so the content isn't hidden under the header */
 
   /* padding-top: 100px;  */
@@ -13,11 +13,17 @@
 }
 
 .muscleDetailTopText {
+  background-color: rgb(58, 58, 58);
   padding: 24px;
   border-radius: 36px;
-  background-color: rgba(116, 102, 102, 0.938);
 }
 
+.øvelser {
+  display: flex;
+  background-color: rgb(116, 116, 116);
+  padding: 24px;
+  border-radius: 36px;
+}
 .muscleImage {
   max-width: 80%;
   height: auto;

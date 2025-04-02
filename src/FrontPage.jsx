@@ -11,7 +11,7 @@ export default function FrontPage() {
           <div className="backgroundImg secondBackgroundImg" />
         </div>
         <div className="frontPageContent">
-          <div className="frontPageText">
+          <div className="frontPageText textShadow">
             <h3>
               Her finner du <b>alt</b> du trenger for å trene<b>.</b>
             </h3>
