@@ -1,0 +1,50 @@
+.muscleGroupTitle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 56px;
+  font-size: 24px;
+}
+
+.muscleGroupTitle b {
+  color: #ff2a4e;
+  font-size: 42px;
+}
+
+.muscleGroupCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* border: 2px solid rgb(104, 255, 4); */
+  gap: 42px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(55, 55, 55);
+  border: 4px solid #ff2a4e;
+  border-radius: 24px;
+  width: 275px;
+  height: 300px;
+  cursor: pointer;
+  font-size: 20px;
+  padding-top: 36px;
+  gap: 32px;
+  overflow: hidden;
+}
+
+.cardImg {
+  height: 196px;
+  object-fit: cover;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card:active {
+  transform: scale(1);
+}
