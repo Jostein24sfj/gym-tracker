@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./muscleGroups.css";
 
 export default function MuscleGroups() {
@@ -9,34 +10,30 @@ export default function MuscleGroups() {
         </h2>
       </div>
       <div className="muscleGroupCards">
-        <div className="card">
+        <Link to="/muscle/chest" className="card">
           <h3>Chest</h3>
-          <img className="cardImg" src="/public/chestMuscles.jpg" alt="chest" />
-        </div>
-        <div className="card">
+          <img className="cardImg" src="/chestMuscles.jpg" alt="chest" />
+        </Link>
+        <Link to="/muscle/back" className="card">
           <h3>Back</h3>
-          <img className="cardImg" src="/public/backMuscle.jpg" alt="back" />
-        </div>
-        <div className="card">
+          <img className="cardImg" src="/backMuscle.jpg" alt="back" />
+        </Link>
+        <Link to="/muscle/legs" className="card">
           <h3>Legs</h3>
-          <img className="cardImg" src="/public/legMuscles.jpg" alt="legs" />
-        </div>
-        <div className="card">
+          <img className="cardImg" src="/legMuscles.jpg" alt="legs" />
+        </Link>
+        <Link to="/muscle/core" className="card">
           <h3>Core</h3>
-          <img className="cardImg" src="/public/coreMuscles.jpg" alt="core" />
-        </div>
-        <div className="card">
+          <img className="cardImg" src="/coreMuscles.jpg" alt="core" />
+        </Link>
+        <Link to="/muscle/arms" className="card">
           <h3>Arms</h3>
-          <img className="cardImg" src="/public/armMuscle.jpg" alt="arms" />
-        </div>
-        <div className="card">
+          <img className="cardImg" src="/armMuscle.jpg" alt="arms" />
+        </Link>
+        <Link to="/muscle/shoulders" className="card">
           <h3>Shoulders</h3>
-          <img
-            className="cardImg"
-            src="/public/shoulderMuscles.jpg"
-            alt="shoulders"
-          />
-        </div>
+          <img className="cardImg" src="/shoulderMuscles.jpg" alt="shoulders" />
+        </Link>
       </div>
     </>
   );

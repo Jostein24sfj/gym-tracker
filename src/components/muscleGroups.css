@@ -15,7 +15,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  /* border: 2px solid rgb(104, 255, 4); */
   gap: 42px;
 }
 

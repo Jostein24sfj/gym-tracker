@@ -14,3 +14,37 @@
     transform: rotate(360deg);
   }
 } */
+
+/* Remove default Link styling */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Optional: You can also apply this only to the header buttons */
+.headerButtons a {
+  text-decoration: none;
+  color: white; /* Change to your preferred color */
+  font-weight: bold;
+}
+
+.headerButtons a:hover {
+  color: #ff2a4e; /* Change hover color if needed */
+}
+
+/* Optional: Ensure the card text is also styled properly */
+.card h3 {
+  text-decoration: none;
+  color: white; /* Change this to the color you originally had */
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card h3:hover {
+  color: #ff2a4e; /* Optional hover effect */
+}
+
+/* Fix scrolling issue when using the header buttons */
+section {
+  scroll-margin-top: 120px; /* Adjust this value based on your header height */
+}

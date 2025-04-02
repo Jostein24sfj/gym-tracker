@@ -1,9 +1,11 @@
 import "./FrontPage.css";
+import MuscleGroups from "./components/MuscleGroups.jsx";
+import AboutMe from "./components/AboutMe.jsx";
 
 export default function FrontPage() {
   return (
     <>
-      <section>
+      <section id="home">
         <div className="backgrounds">
           <div className="backgroundImg firstBackgroundImg" />
           <div className="backgroundImg secondBackgroundImg" />
@@ -25,6 +27,21 @@ export default function FrontPage() {
             alt="Bilde av en vektskive"
           />
         </div>
+      </section>
+
+      {/* Add an ID for scrolling */}
+      <section id="programs">
+        <MuscleGroups />
+      </section>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      {/* Add an ID for scrolling */}
+      <section id="aboutMe">
+        <AboutMe />
       </section>
     </>
   );

@@ -5,9 +5,10 @@
   padding: 24px;
   height: 86px;
   width: 100%;
-  background-color: #bc1f39c2;
+  background-color: #bc1f39d8;
   border-bottom: 1px solid white;
   position: fixed;
+  z-index: 1000; /* Ensure header stays on top */
 }
 
 .headerLogo {
