@@ -17,3 +17,10 @@
   border-radius: 36px;
   background-color: rgba(116, 102, 102, 0.938);
 }
+
+.muscleImage {
+  max-width: 80%;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}

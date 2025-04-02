@@ -13,7 +13,7 @@ export default function Header() {
     } else {
       // If on another page, navigate to the FrontPage and then scroll
       navigate("/", { replace: true });
-      window.scrollTo({ top: 0, behavior: "smooth" });
+      window.scrollTo({ top: 0, behavior: "smooth" }); // Ensure scroll to top
       setTimeout(() => {
         document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
       }, 100); // Delay to ensure page has loaded
