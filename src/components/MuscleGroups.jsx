@@ -18,25 +18,17 @@ export default function MuscleGroups() {
           <h3>Back</h3>
           <img
             className="cardImg"
-            src="/public/theBackMusclesDiagram.jpg"
+            src="/theBackMusclesDiagram.jpg"
             alt="back"
           />
         </Link>
         <Link to="/muscle/legs" className="card">
           <h3>Legs</h3>
-          <img
-            className="cardImg"
-            src="/public/legMuscleDiagram.jpg"
-            alt="legs"
-          />
+          <img className="cardImg" src="/legMuscleDiagram.jpg" alt="legs" />
         </Link>
         <Link to="/muscle/core" className="card">
           <h3>Core</h3>
-          <img
-            className="cardImg"
-            src="/public/coreMuscleDiagram.jpg"
-            alt="core"
-          />
+          <img className="cardImg" src="/coreMuscleDiagram.jpg" alt="core" />
         </Link>
         <Link to="/muscle/arms" className="card">
           <h3>Arms</h3>
@@ -46,7 +38,7 @@ export default function MuscleGroups() {
           <h3>Shoulders</h3>
           <img
             className="cardImg"
-            src="/public/shoulderMuscleDiagram.jpg"
+            src="/shoulderMuscleDiagram.jpg"
             alt="shoulders"
           />
         </Link>
