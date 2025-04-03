@@ -36,11 +36,13 @@
 }
 
 .cardImg {
+  opacity: 80%;
   height: 196px;
   object-fit: cover;
 }
 
 .card:hover {
+  color: #ff2a4e;
   transform: scale(1.02);
 }
 
