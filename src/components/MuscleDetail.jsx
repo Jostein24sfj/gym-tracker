@@ -19,7 +19,7 @@ export default function MuscleDetail() {
       </div>
       <div className="øvelser">
         <div className="øvelseInfo">
-          <img className="cardImg" src="/public/benchPress.png" alt="chest" />
+          <img className="cardImg" src="/benchPress.png" alt="chest" />
           <div className="øvelserInfoText">
             <h3>Benkpress</h3>
             <p>
@@ -40,11 +40,7 @@ export default function MuscleDetail() {
       </div>
       <div className="øvelser">
         <div className="øvelseInfo">
-          <img
-            className="cardImg"
-            src="/public/cableFlyes.webp"
-            alt="cableflyes"
-          />
+          <img className="cardImg" src="/cableFlyes.webp" alt="cableflyes" />
           <div className="øvelserInfoText">
             <h3>Cable Flyes</h3>
             <p>
