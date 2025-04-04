@@ -7,6 +7,12 @@
   },
   {
     "type": "chest",
+    "name": "Dumbbell Bench Press",
+    "description": "Dumbbell chest press er en effektiv øvelse for å bygge styrke og muskelmasse i brystet, skuldrene og triceps. Ved å bruke manualer i stedet for en vektstang, får du større bevegelsesfrihet og bedre muskelaktivering, spesielt i stabiliseringsmusklene. Øvelsen utføres ved å ligge på en benk, senke manualene kontrollert ned til brystet og deretter presse dem opp igjen til armene er strake. Dette er en super øvelse for å utvikle en sterk og veldefinert overkropp!",
+    "src": "/dumbbellBenchPress.jpg"
+  },
+  {
+    "type": "chest",
     "name": "Cable Flyes",
     "description": "Cable flyes er en treningsøvelse som primært trener bryst. Øvelsen utføres ved hjelp av kabelmaskiner, og gir en konstant spenning gjennom hele bevegelsen, noe som gir en effektiv trening for brystet. For å utføre cable flyes: 1. Juster kabelmaskinen til øyehøyde og fest håndtakene på begge sidene. 2. Ta tak i håndtakene med begge hender og stå i en stabil posisjon, med et lite bøy i knærne. 3. Trekk hendene sammen foran kroppen, og fokuser på å klemme brystmusklene på toppen. 4. Senk langsomt hendene tilbake til startposisjonen, og kontroller bevegelsen. Cable flyes er en flott øvelse for å isolere brystet og for å forbedre brystets form og definisjon.",
     "src": "/cableFlyes.webp"
@@ -15,18 +21,60 @@
     "type": "chest",
     "name": "Incline Bench Press",
     "description": "Benkpress er en populær styrketreningsøvelse som hovedsakelig trener bryst, men også skuldre og triceps. Øvelsen utføres vanligvis med en vektstang og løftes fra en liggende posisjon på en benk. For å utføre benkpress: 1. Ligg på ryggen på en benk med føttene flatt på gulvet. 2. Hold stangen med et grep som er litt bredere enn skulderbredde. 3. Senk stangen kontrollert ned til brystet, og press oppover til startposisjon med kraft. Benkpress er en av de mest brukte øvelsene for å bygge styrke og masse i overkroppen. Det er også en standard øvelse i styrkeløftkonkurranser.",
-    "src": "/benchPress.png"
+    "src": "/inclineBenchPress.jpg"
   },
   {
     "type": "back",
     "name": "Cable Row",
     "description": "Cable row er en effektiv øvelse for å styrke ryggmusklene, spesielt de midtre og nedre delene av ryggen, samt biceps og skuldre. Noen fordeler med cable row er. Jevn motstand, kabelmaskinen gir jevn spenning gjennom hele bevegelsen, noe som gir bedre muskelaktivering. Skånsom for leddene, mindre belastning på korsryggen sammenlignet med for eksempel barbell row. Bedre holdning, styrker musklene som bidrar til en sterk og oppreist kroppsholdning. Fleksibel utførelse, mulighet for variasjoner i grep og bredde for å treffe ulike deler av ryggen. Perfekt for både nybegynnere og erfarne som vil bygge en sterk rygg.",
-    "src": "/benchPress.png"
+    "src": "/cableRow.jpg"
   },
   {
     "type": "back",
     "name": "Lat Pulldown",
     "description": "Lat pulldown er en øvelse som trener ryggmusklene, spesielt vingene. Øvelsen utføres sittende i en kabelmaskin, der du trekker en stang ned mot brystet. Fordeler med lat pulldown er bl.a at det styrker og bygger en bredere rygg, forbedrer trekkstyrke, noe som hjelper i andre øvelser som pull-ups, skånsom for skuldrene sammenlignet med frie vekter. En effektiv øvelse for både nybegynnere og viderekomne!",
-    "src": "/benchPress.png"
+    "src": "/latPulldown.jpg"
+  },
+  {
+    "type": "legs",
+    "name": "Squat",
+    "description": "Squat er en grunnleggende og effektiv øvelse som trener bena, rumpa og kjernemuskulaturen. Øvelsen utføres ved å bøye knærne og senke kroppen ned som om du setter deg på en stol, før du presser opp igjen til stående posisjon. Squats er utmerket for å bygge styrke, stabilitet og muskelmasse i underkroppen.",
+    "src": "/squat.jpg"
+  },
+  {
+    "type": "legs",
+    "name": "Leg Extension",
+    "description": "Leg extension er en øvelse som primært trener quads (forsiden av lårene). Øvelsen utføres på en maskin hvor du sitter med beina under en polstret stang. Ved å rette ut beina mot maskinens motstand, får du aktivert quads-muskelen. Leg extension er bra for å isolere og styrke forsiden av lårene.",
+    "src": "/legExtension.jpg"
+  },
+  {
+    "type": "legs",
+    "name": "Hamstring Extension",
+    "description": "Hamstring extension, også kjent som leg curl, er en øvelse som primært trener hamstringene (baksiden av lårene). Øvelsen utføres på en maskin der du ligger på magen med ankler festet under en stang. Ved å bøye knærne mot motstanden, aktiveres hamstringene. Denne øvelsen er effektiv for å styrke og tone baksiden av lårene.",
+    "src": "/hamstring.jpg"
+  },
+  {
+    "type": "legs",
+    "name": "Calf Raises",
+    "description": "Calf raises er en øvelse som trener leggene, spesielt musklene på baksiden av leggen. Øvelsen utføres ved å stå på en flat overflate eller på en forhøyning med føttene skulderbredde fra hverandre. Ved å løfte hælene opp og senke dem kontrollert tilbake, aktiveres leggene. Calf raises kan gjøres med kroppsvekt eller med ekstra vekt for økt motstand.",
+    "src": "/calfRaise.jpg"
+  },
+  {
+    "type": "core",
+    "name": "Sit ups",
+    "description": "Sit-ups er en øvelse som styrker magemusklene, spesielt den rette magemuskelen. Øvelsen utføres ved å ligge på ryggen med knærne bøyd og føttene flatt på bakken. Ved å bruke magemusklene, løfter du overkroppen opp mot knærne, og senker deg kontrollert tilbake til startposisjonen. Sit-ups er en effektiv øvelse for å forbedre kjernestyrken.",
+    "src": "/situps.jpg"
+  },
+  {
+    "type": "core",
+    "name": "Planken",
+    "description": "Planken er en isometrisk øvelse som styrker kjernemuskulaturen, spesielt de dype magemusklene og ryggen. Øvelsen utføres ved å ligge på magen og deretter løfte kroppen opp på tærne og albuene, slik at kroppen danner en rett linje fra hodet til hælene. Du holder denne posisjonen i en viss tid, samtidig som du aktiverer musklene for å opprettholde stabiliteten. Planken er effektiv for å bygge kjernestyrke og forbedre kroppsholdningen.",
+    "src": "/plank.jpg"
+  },
+  {
+    "type": "core",
+    "name": "Hanging leg raise",
+    "description": "Hanging leg raise er en øvelse som primært trener magemusklene, spesielt de nedre magemusklene. Den utføres ved å henge fra en stang med armene rett ned og deretter løfte beina langsomt opp mot brystet, før du senker dem kontrollert tilbake til startposisjonen. Øvelsen utfordrer også grepsstyrken og stabiliteten i skuldrene. Hanging leg raise er effektiv for å bygge styrke i kjernen og forbedre fleksibiliteten i hoftene.",
+    "src": "/hangingLegRaise.jpg"
   }
 ]
