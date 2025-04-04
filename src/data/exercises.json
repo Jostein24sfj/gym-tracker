@@ -9,7 +9,7 @@
     "type": "chest",
     "name": "Dumbbell Bench Press",
     "description": "Dumbbell chest press er en effektiv øvelse for å bygge styrke og muskelmasse i brystet, skuldrene og triceps. Ved å bruke manualer i stedet for en vektstang, får du større bevegelsesfrihet og bedre muskelaktivering, spesielt i stabiliseringsmusklene. Øvelsen utføres ved å ligge på en benk, senke manualene kontrollert ned til brystet og deretter presse dem opp igjen til armene er strake. Dette er en super øvelse for å utvikle en sterk og veldefinert overkropp!",
-    "src": "/dumbbellBenchPress.jpg"
+    "src": "/dumbbellBenchPressDiagram.jpg"
   },
   {
     "type": "chest",
@@ -20,61 +20,109 @@
   {
     "type": "chest",
     "name": "Incline Bench Press",
-    "description": "Benkpress er en populær styrketreningsøvelse som hovedsakelig trener bryst, men også skuldre og triceps. Øvelsen utføres vanligvis med en vektstang og løftes fra en liggende posisjon på en benk. For å utføre benkpress: 1. Ligg på ryggen på en benk med føttene flatt på gulvet. 2. Hold stangen med et grep som er litt bredere enn skulderbredde. 3. Senk stangen kontrollert ned til brystet, og press oppover til startposisjon med kraft. Benkpress er en av de mest brukte øvelsene for å bygge styrke og masse i overkroppen. Det er også en standard øvelse i styrkeløftkonkurranser.",
-    "src": "/inclineBenchPress.jpg"
+    "description": "Incline Benkpress er en variant av benkpress som fokuserer mer på den øvre delen av brystet (klavikulært område) og skuldrene. Øvelsen utføres på en benk som er vinklet, vanligvis mellom 15 og 45 grader, og du presser en vekt (stang eller manualer) opp fra brystet. Dette er en utmerket øvelse for å utvikle styrke og muskelmasse i den øvre brystmuskulaturen.",
+    "src": "/inclineBenchPressDiagram.jpg"
   },
   {
     "type": "back",
     "name": "Cable Row",
     "description": "Cable row er en effektiv øvelse for å styrke ryggmusklene, spesielt de midtre og nedre delene av ryggen, samt biceps og skuldre. Noen fordeler med cable row er. Jevn motstand, kabelmaskinen gir jevn spenning gjennom hele bevegelsen, noe som gir bedre muskelaktivering. Skånsom for leddene, mindre belastning på korsryggen sammenlignet med for eksempel barbell row. Bedre holdning, styrker musklene som bidrar til en sterk og oppreist kroppsholdning. Fleksibel utførelse, mulighet for variasjoner i grep og bredde for å treffe ulike deler av ryggen. Perfekt for både nybegynnere og erfarne som vil bygge en sterk rygg.",
-    "src": "/cableRow.jpg"
+    "src": "/seatedCableRow.jpeg"
   },
   {
     "type": "back",
     "name": "Lat Pulldown",
     "description": "Lat pulldown er en øvelse som trener ryggmusklene, spesielt vingene. Øvelsen utføres sittende i en kabelmaskin, der du trekker en stang ned mot brystet. Fordeler med lat pulldown er bl.a at det styrker og bygger en bredere rygg, forbedrer trekkstyrke, noe som hjelper i andre øvelser som pull-ups, skånsom for skuldrene sammenlignet med frie vekter. En effektiv øvelse for både nybegynnere og viderekomne!",
-    "src": "/latPulldown.jpg"
+    "src": "/seatedPullDown.jpg"
   },
   {
     "type": "legs",
     "name": "Squat",
     "description": "Squat er en grunnleggende og effektiv øvelse som trener bena, rumpa og kjernemuskulaturen. Øvelsen utføres ved å bøye knærne og senke kroppen ned som om du setter deg på en stol, før du presser opp igjen til stående posisjon. Squats er utmerket for å bygge styrke, stabilitet og muskelmasse i underkroppen.",
-    "src": "/squat.jpg"
+    "src": "/squatImage.jpg"
   },
   {
     "type": "legs",
     "name": "Leg Extension",
     "description": "Leg extension er en øvelse som primært trener quads (forsiden av lårene). Øvelsen utføres på en maskin hvor du sitter med beina under en polstret stang. Ved å rette ut beina mot maskinens motstand, får du aktivert quads-muskelen. Leg extension er bra for å isolere og styrke forsiden av lårene.",
-    "src": "/legExtension.jpg"
+    "src": "/seatedLegExtension.webp"
   },
   {
     "type": "legs",
     "name": "Hamstring Extension",
     "description": "Hamstring extension, også kjent som leg curl, er en øvelse som primært trener hamstringene (baksiden av lårene). Øvelsen utføres på en maskin der du ligger på magen med ankler festet under en stang. Ved å bøye knærne mot motstanden, aktiveres hamstringene. Denne øvelsen er effektiv for å styrke og tone baksiden av lårene.",
-    "src": "/hamstring.jpg"
+    "src": "/hamstringExtension.jpg"
   },
   {
     "type": "legs",
     "name": "Calf Raises",
     "description": "Calf raises er en øvelse som trener leggene, spesielt musklene på baksiden av leggen. Øvelsen utføres ved å stå på en flat overflate eller på en forhøyning med føttene skulderbredde fra hverandre. Ved å løfte hælene opp og senke dem kontrollert tilbake, aktiveres leggene. Calf raises kan gjøres med kroppsvekt eller med ekstra vekt for økt motstand.",
-    "src": "/calfRaise.jpg"
+    "src": "/calfRaises.webp"
   },
   {
     "type": "core",
     "name": "Sit ups",
     "description": "Sit-ups er en øvelse som styrker magemusklene, spesielt den rette magemuskelen. Øvelsen utføres ved å ligge på ryggen med knærne bøyd og føttene flatt på bakken. Ved å bruke magemusklene, løfter du overkroppen opp mot knærne, og senker deg kontrollert tilbake til startposisjonen. Sit-ups er en effektiv øvelse for å forbedre kjernestyrken.",
-    "src": "/situps.jpg"
+    "src": "/sitUpsImage.avif"
   },
   {
     "type": "core",
     "name": "Planken",
     "description": "Planken er en isometrisk øvelse som styrker kjernemuskulaturen, spesielt de dype magemusklene og ryggen. Øvelsen utføres ved å ligge på magen og deretter løfte kroppen opp på tærne og albuene, slik at kroppen danner en rett linje fra hodet til hælene. Du holder denne posisjonen i en viss tid, samtidig som du aktiverer musklene for å opprettholde stabiliteten. Planken er effektiv for å bygge kjernestyrke og forbedre kroppsholdningen.",
-    "src": "/plank.jpg"
+    "src": "/plankImage.avif"
   },
   {
     "type": "core",
     "name": "Hanging leg raise",
     "description": "Hanging leg raise er en øvelse som primært trener magemusklene, spesielt de nedre magemusklene. Den utføres ved å henge fra en stang med armene rett ned og deretter løfte beina langsomt opp mot brystet, før du senker dem kontrollert tilbake til startposisjonen. Øvelsen utfordrer også grepsstyrken og stabiliteten i skuldrene. Hanging leg raise er effektiv for å bygge styrke i kjernen og forbedre fleksibiliteten i hoftene.",
-    "src": "/hangingLegRaise.jpg"
+    "src": "/hangingLegRaises.jpg"
+  },
+  {
+    "type": "arms",
+    "name": "Biceps Hammer Curl",
+    "description": "Biceps hammer curl er en øvelse som trener både biceps og brachialis-muskelen, som gir mer bredde til overarmen. Øvelsen utføres ved å holde en manual i hver hånd med et nøytralt grep (håndflatene vendt innover) og deretter løfte manualene mot skuldrene med kontrollert bevegelse. Hammer curls gir en balansert armutvikling og forbedrer grepsstyrken.",
+    "src": "/hammerCurl.webp"
+  },
+  {
+    "type": "arms",
+    "name": "Biceps Curl",
+    "description": "Biceps curl er en klassisk øvelse for å styrke og bygge biceps. Øvelsen utføres ved å holde en manual eller vektstang med håndflatene vendt opp, og deretter bøye albuene for å løfte vekten mot skuldrene. Bevegelsen skal være kontrollert både opp og ned. Biceps curl bidrar til økt armstyrke og muskelvolum.",
+    "src": "/bicepCurl.avif"
+  },
+  {
+    "type": "arms",
+    "name": "Triceps Extension",
+    "description": "Triceps extension på kabelmaskin er en effektiv øvelse for å isolere og styrke triceps. Ved å bruke en rett stang, tau eller V-håndtak festet til en høy kabel, presser du vekten ned ved å strekke ut albuene, og kontrollerer bevegelsen tilbake. Øvelsen gir jevn motstand og god muskelaktivering gjennom hele bevegelsen.",
+    "src": "/tricepExtension.webp"
+  },
+  {
+    "type": "arms",
+    "name": "Scull Crushers",
+    "description": "Skull crushers er en isolasjonsøvelse som effektivt trener triceps. Øvelsen utføres vanligvis med en EZ-stang eller manualer mens du ligger på en benk. Du senker vekten kontrollert mot pannen ved å bøye albuene, før du presser den opp igjen til startposisjon. Skull crushers hjelper med å bygge styrke og definisjon i triceps.",
+    "src": "/skullCrushers.jpg"
+  },
+  {
+    "type": "shoulders",
+    "name": "Side Delts",
+    "description": "Sidehev (lateral raises) er en øvelse som isolerer side deltamuskelen i skuldrene. Øvelsen utføres ved å løfte manualer ut til siden med lett bøyde armer til skulderhøyde, og deretter senke dem kontrollert. Sidehev hjelper med å bygge bredere skuldre og forbedrer skulderstyrke og stabilitet.",
+    "src": "/sideDelts.webp"
+  },
+  {
+    "type": "shoulders",
+    "name": "Rear Delts",
+    "description": "Rear delt-øvelser fokuserer på baksiden av skulderen (bakre deltamuskelen) og hjelper med holdning, skulderstyrke og balanse. En populær øvelse er (rear delt fly), hvor du enten bruker manualer, kabler eller en pec deck-maskin. Øvelsen utføres ved å trekke armene bakover i en kontrolleret bevegelse, noe som styrker bakre skuldre og øvre rygg.",
+    "src": "/rearDelts.avif"
+  },
+  {
+    "type": "shoulders",
+    "name": "Front Delts",
+    "description": "Front delt-øvelser fokuserer på forsiden av skulderen (fremre deltamuskelen) og hjelper med skulderstyrke og pressing. En populær øvelse er (front raises), der du løfter manualer, en vektplate eller en kabel rett opp foran deg til skulderhøyde. Dette bygger styrke og muskelmasse i forsiden av skuldrene, som er viktig for øvelser som benkpress og skulder press.",
+    "src": "/frontDelts.webp"
+  },
+  {
+    "type": "shoulders",
+    "name": "Shoulder Press",
+    "description": "Shoulder Press er en effektiv øvelse for å bygge styrke i skuldrene, spesielt fremre deltoider, samt triceps og øvre del av brystet. Øvelsen kan utføres med manualer, stang eller maskin. Du starter med vektene i skulderhøyde og presser dem rett opp over hodet til armene er strake, før du senker dem kontrollert ned igjen. Dette er en av de beste øvelsene for å utvikle sterke og brede skuldre.",
+    "src": "/shoulderPress.webp"
   }
 ]
