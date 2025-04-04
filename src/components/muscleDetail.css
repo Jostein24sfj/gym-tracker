@@ -33,8 +33,20 @@
 .øvelser h3 {
   font-size: 24px;
   text-align: center;
-  margin-bottom: 12px;
+  /* padding-right: 22px; */
   text-shadow: 2px 2px black;
+}
+
+.favoriteSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* gap: 12px; */
+}
+
+.favoriteButton {
+  display: flex;
+  padding-left: 12px;
 }
 
 .øvelser img {
