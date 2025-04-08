@@ -39,26 +39,23 @@ export default function Header() {
         <button
           onClick={handleLogoClick}
           className="headerLogo"
-          style={{ padding: "8px" }}
-        >
+          style={{ padding: "8px" }}>
           Gym Tracker
         </button>
       </div>
-      <div className="headerButtons">
+      <nav className="headerButtons">
         {/* Scroll to Programs */}
         <button
           onClick={() => scrollToSection("programs")}
           className="headerButton"
-          style={{ padding: "8px" }}
-        >
+          style={{ padding: "8px" }}>
           Programs
         </button>
         {/* Scroll to About Me */}
         <button
           onClick={() => scrollToSection("aboutMe")}
           className="headerButton"
-          style={{ padding: "8px" }}
-        >
+          style={{ padding: "8px" }}>
           About Me
         </button>
         {/* Keep Favorites & Contact for future */}
@@ -68,7 +65,7 @@ export default function Header() {
         <button className="headerButton" style={{ padding: "8px" }}>
           Contact
         </button>
-      </div>
+      </nav>
     </div>
   );
 }

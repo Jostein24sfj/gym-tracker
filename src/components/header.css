@@ -37,6 +37,19 @@
   gap: 12px;
 }
 
+.hamburgerBar {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .headerButtons {
+    display: none;
+  }
+  .hamburgerBar {
+    display: block;
+  }
+}
+
 .headerButton:hover {
   transition: 0.3s ease;
   transform: scale(1.1);
