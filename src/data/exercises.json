@@ -1,5 +1,22 @@
 [
   {
+    "bodybuilding": {
+      "reps": 12,
+      "set": 4,
+      "rest": "2 min"
+    },
+    "strength": {
+      "reps": "6-8",
+      "set": 4,
+      "rest": "2-3 min"
+    },
+    "cardio": {
+      "reps": "12-20",
+      "set": 4,
+      "rest": "2 min"
+    }
+  },
+  {
     "type": "chest",
     "name": "Bench Press",
     "description": "Benkpress er en populær styrketreningsøvelse som hovedsakelig trener bryst, men også skuldre og triceps. Øvelsen utføres vanligvis med en vektstang og løftes fra en liggende posisjon på en benk. For å utføre benkpress: 1. Ligg på ryggen på en benk med føttene flatt på gulvet. 2. Hold stangen med et grep som er litt bredere enn skulderbredde. 3. Senk stangen kontrollert ned til brystet, og press oppover til startposisjon med kraft. Benkpress er en av de mest brukte øvelsene for å bygge styrke og masse i overkroppen. Det er også en standard øvelse i styrkeløftkonkurranser.",
